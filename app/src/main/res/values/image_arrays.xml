@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="grid1">
+        <item>@drawable/psm_talking_on_phone2</item>
+        <item>@drawable/psm_stressed_person</item>
+        <item>@drawable/psm_stressed_person12</item>
+        <item>@drawable/psm_lonely</item>
+        <item>@drawable/psm_gambling4</item>
+        <item>@drawable/psm_clutter3</item>
+        <item>@drawable/psm_reading_in_bed2</item>
+        <item>@drawable/psm_stressed_person4</item>
+        <item>@drawable/psm_lake3</item>
+        <item>@drawable/psm_cat</item>
+        <item>@drawable/psm_puppy3</item>
+        <item>@drawable/psm_neutral_person2</item>
+        <item>@drawable/psm_beach3</item>
+        <item>@drawable/psm_peaceful_person</item>
+        <item>@drawable/psm_alarm_clock2</item>
+        <item>@drawable/psm_sticky_notes2</item>
+    </integer-array>
+
+    <integer-array name="grid2">
+        <item>@drawable/psm_anxious</item>
+        <item>@drawable/psm_hiking3</item>
+        <item>@drawable/psm_stressed_person3</item>
+        <item>@drawable/psm_lonely2</item>
+        <item>@drawable/psm_dog_sleeping</item>
+        <item>@drawable/psm_running4</item>
+        <item>@drawable/psm_alarm_clock</item>
+        <item>@drawable/psm_headache</item>
+        <item>@drawable/psm_baby_sleeping</item>
+        <item>@drawable/psm_puppy</item>
+        <item>@drawable/psm_stressed_cat</item>
+        <item>@drawable/psm_angry_face</item>
+        <item>@drawable/psm_bar</item>
+        <item>@drawable/psm_running3</item>
+        <item>@drawable/psm_neutral_child</item>
+        <item>@drawable/psm_headache2</item>
+    </integer-array>
+
+    <integer-array name="grid3">
+        <item>@drawable/psm_mountains11</item>
+        <item>@drawable/psm_wine3</item>
+        <item>@drawable/psm_barbed_wire2</item>
+        <item>@drawable/psm_clutter</item>
+        <item>@drawable/psm_blue_drop</item>
+        <item>@drawable/psm_to_do_list</item>
+        <item>@drawable/psm_stressed_person7</item>
+        <item>@drawable/psm_stressed_person6</item>
+        <item>@drawable/psm_yoga4</item>
+        <item>@drawable/psm_bird3</item>
+        <item>@drawable/psm_stressed_person8</item>
+        <item>@drawable/psm_exam4</item>
+        <item>@drawable/psm_kettle</item>
+        <item>@drawable/psm_lawn_chairs3</item>
+        <item>@drawable/psm_to_do_list3</item>
+        <item>@drawable/psm_work4</item>
+    </integer-array>
+</resources>
